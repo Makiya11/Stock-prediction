@@ -1,6 +1,6 @@
 # Stock-prediction
 
-This program will predict if we should buy, sell, hold stock.
+This program will predict if it is goot time to buy, sell, hold stock.
 
 It extracted 500 companies past stock data(18 years) in csv file using Web scraping
 
